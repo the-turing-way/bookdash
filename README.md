@@ -21,6 +21,8 @@ Members of the working group will serve for at least one year and need to have p
 * Carlos Matinez
 * Susana Roman Garcia
 
+Our working group meeting notes can be found [here](https://github.com/the-turing-way/bookdash/wg-meeting-notes)
+
 ## Book Dash Planning Committee
 Current members of our community that have previously joined a Book Dash can apply to be on the planning committee.
 
