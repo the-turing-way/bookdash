@@ -7,6 +7,8 @@ They also contribute to enhancing the project by improving the ways we work in t
 
 Find out more about the Bookdash [here](https://the-turing-way.netlify.app/community-handbook/bookdash).
 
+![ A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/first-pull-request.svg "First pull request")
+
 ## Book Dash Working Group
 
 The Book Dash Working Group was initiated in January 2024. 
