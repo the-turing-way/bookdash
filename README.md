@@ -20,7 +20,7 @@ Members of the working group will serve for at least one year and need to have p
 * Esther Plomp - Chair
 * Arielle Bennett - Secretary
 * Emma Karoune - Secretary
-* Carlos Matinez
+* Carlos Martinez
 * Susana Roman Garcia
 
 Our working group meeting notes can be found [here](https://github.com/the-turing-way/bookdash/wg-meeting-notes)
