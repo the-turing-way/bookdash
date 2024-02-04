@@ -1,2 +1,5 @@
-# working-group-template
-Template for starting and maintaining a working group or team in The Turing Way
+# Bookdash Working Group
+
+The Bookdash Working Group was initiated in January 2024.
+
+
