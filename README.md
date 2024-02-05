@@ -5,7 +5,7 @@ This repository is being used to document processes and decisions made for *The 
 The Book Dash is a week long hackathon where participants collaboratively work on *The Turing Way* book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 Participants also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or sub-projects.
 
-Find out more about the Bookdash [here](https://the-turing-way.netlify.app/community-handbook/bookdash).
+Find out more about the Book Dash [here](https://the-turing-way.netlify.app/community-handbook/bookdash).
 
 ![A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/first-pull-request.svg "First pull request")
 
