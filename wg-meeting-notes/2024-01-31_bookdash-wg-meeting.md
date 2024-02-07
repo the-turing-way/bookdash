@@ -4,7 +4,7 @@
 
 ## About this call
 
-The Turing Way Book Dash Working group meets on a monthly basis 
+The Turing Way Book Dash Working Group meets on a monthly basis 
 
 ### Code of conduct
 
