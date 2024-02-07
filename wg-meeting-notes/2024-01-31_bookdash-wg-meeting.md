@@ -24,7 +24,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
        * Chairing meetings
        * Liasion between the WG and the constitutional levels, communicate decisions etc
    * Secretariat (other roles): will be split between Arielle and Emma
-       * - ensuring all the topics of the Agenda are covered
+       * Ensuring all the topics of the Agenda are covered
        * - Notes are documented and uploaded in the repository (still need to decide if this should be an independent repository - we decided yes to the independent repo)
    * - invite other members (invitation link)
        * - Planning committee is self nominations
