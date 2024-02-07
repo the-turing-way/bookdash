@@ -12,7 +12,7 @@ Find out more about the Book Dash [here](https://the-turing-way.netlify.app/comm
 ## Book Dash Working Group
 
 The Book Dash Working Group was initiated in January 2024. 
-It's purpose is to make long term strategic decisions about the Book Dash events. 
+It's purpose is to make long term strategic decisions about the Book Dash events - to be decided and agreed in a future meeting.
 Members of the working group will serve for at least one year and need to have previous experience of being on the Book Dash planning committee.
 
 ### Current members of the working group
