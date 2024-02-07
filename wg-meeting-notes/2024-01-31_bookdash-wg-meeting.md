@@ -19,7 +19,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
 
 ## Agenda January
 
-   * Officially launch the Working group, identify:
+   * Officially launch the Working Group, identify:
    * - Chair: Esther
        * - Chairing meetings
        * - Liason between the WG and the constitutional levels, communicate decisions etc
