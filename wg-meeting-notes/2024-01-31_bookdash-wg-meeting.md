@@ -34,7 +34,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
            * Susana Roman-Garcia ---> To be asked
            * Carlos - may be too busy  ----> to be asked
            * Andrea Sanchez-Tapia: part of the Translation and localisation
-           * - Alden Conner
+           * Alden Conner
            * Batool Almarzouq: part of Translation & Localisation WG
            * - Johanna Bayer
            * - Liz Hare: part of the Accessibility wg
