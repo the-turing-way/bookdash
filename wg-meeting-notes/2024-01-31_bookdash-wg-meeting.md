@@ -22,7 +22,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
    * Officially launch the Working Group, identify:
    * Chair: Esther
        * Chairing meetings
-       * - Liason between the WG and the constitutional levels, communicate decisions etc
+       * Liasion between the WG and the constitutional levels, communicate decisions etc
    * - Secretariat (other roles): will be split between Arielle and Emma
        * - ensuring all the topics of the Agenda are covered
        * - Notes are documented and uploaded in the repository (still need to decide if this should be an independent repository - we decided yes to the independent repo)
