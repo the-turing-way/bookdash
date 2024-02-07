@@ -40,7 +40,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
            * Liz Hare: part of the Accessibility WG
            * Saranjeet Kaur
            * Winny Nekesa
-           * - Alejandro? hasn't been a member of the planning committee
+           * Alejandro? Hasn't been a member of the planning committee
    * - Encourage men to apply to the planning committee
    * Agree on 2024 Book Dash dates: 
    * 1st edition: 13-17 May - (TBA: timeline, forms below) / ALE will book rooms at The Turing and add it in the calendar
