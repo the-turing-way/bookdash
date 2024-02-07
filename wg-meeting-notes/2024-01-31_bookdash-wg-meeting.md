@@ -33,7 +33,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
        * List of previous planning committee members. Several of these people are already engaged in WGs and so we don't want to overload them with another WG. We also want more people not Turing staff as EK and AB are Turing staff.
            * Susana Roman-Garcia ---> To be asked
            * Carlos - may be too busy  ----> to be asked
-           * - Andrea Sanchez-Tapia: part of the Translation and localisation
+           * Andrea Sanchez-Tapia: part of the Translation and localisation
            * - Alden Conner
            * - Batool Almarzouq: part of Translation \& Localisation 
            * - Johanna Bayer
