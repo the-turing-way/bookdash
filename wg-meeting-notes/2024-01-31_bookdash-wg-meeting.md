@@ -41,7 +41,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
            * Saranjeet Kaur
            * Winny Nekesa
            * Alejandro? Hasn't been a member of the planning committee
-   * - Encourage men to apply to the planning committee
+   * Encourage men to apply to the Book Dash planning committee for May
    * Agree on 2024 Book Dash dates: 
    * 1st edition: 13-17 May - (TBA: timeline, forms below) / ALE will book rooms at The Turing and add it in the calendar
    * 2nd edition: Will be reviewed in the next meeting
