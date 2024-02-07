@@ -85,7 +85,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
    * Call for Applications for Participants: Tuesday 5 March 2024```
    * Deadline for submission: Monday 15 April (anywhere on Earth) ```
    * Decisions on the applications: Latest by 01 May 2024
-   * Pre Book Dash Onboarding calls (2 x 1 hour): 30 October 2023. 
+   * Pre Book Dash Onboarding calls (2 x 1 hour): week beginning 22 May, exact date TBC
        * 9:00 am session: led Batool, Saranjeet, Emma, Anne, Alexandra
        * 17:00 session: Arielle, Anne, Alexandra
    * Pre Book Dash GitHub Skill-up (1 hour): May 2024, led by Batool Almarzouq? and Johanna Bayer?
