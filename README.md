@@ -30,6 +30,6 @@ Current members of our community that have previously joined a Book Dash can app
 At least one Book Dash Working Group member will attend planning committee meetings to support communication between the two groups.
 Find out more about the Book Dash planning committee [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection).
 
-
+Need to discuss more in next meeting how we want the two groups to interact.
 
 
