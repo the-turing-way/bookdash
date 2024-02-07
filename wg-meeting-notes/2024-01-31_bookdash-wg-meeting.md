@@ -90,7 +90,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
        * 17:00 session: Arielle, Anne, Alexandra
    * Pre Book Dash GitHub Skill-up (1 hour): May 2024, led by Batool Almarzouq? and Johanna Bayer?
    * Book Dash Contribution Sessions during the week: of 3-6 June 2024
-   * The Turing Way community share-out: 17 May 2024. Additions to The Turing Way Book
+   * The Turing Way community share-out: 7 June 2024. 
 *Curated from the DAY-5 share out notes*
 
 
