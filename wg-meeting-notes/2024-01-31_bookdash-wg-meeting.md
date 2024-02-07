@@ -78,7 +78,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
 
 ### Timeline / Change dates to May 2024
 
-   * Call for application to join the Book Dash Planning Committee and local hub start date: 15 Feb 2024 (3 months before)
+   * Calls for applications to join the Book Dash Planning Committee and host local hubs open: 15 Feb 2024 (3 months before)
    * Deadline to complete the Expression of Interest to Join *The Turing Way* Book Dash Committee: ~~31 March 2024 ~~1 March 2024 (plus community outreach)
    * Deadline for local hub - an expression of interest: ~~9 September 2023 ~~1 March 2024
    * ALE WILL UPDATE THEM / suggestion
