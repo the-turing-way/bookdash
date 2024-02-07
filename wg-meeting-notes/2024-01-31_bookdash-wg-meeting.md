@@ -26,7 +26,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
    * Secretariat (other roles): will be split between Arielle and Emma
        * Ensuring all the topics of the Agenda are covered
        * Notes are documented and uploaded in the repository (still need to decide if this should be an independent repository - we decided yes to the independent repo)
-   * - invite other members (invitation link)
+   * Invite other members (invitation link)
        * - Planning committee is self nominations
        * - WG is previous members of planning committee members as one of the key components
        * - Aiming for 5 people in the WG
