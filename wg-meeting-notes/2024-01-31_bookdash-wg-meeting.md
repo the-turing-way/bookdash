@@ -43,7 +43,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
            * Alejandro? Hasn't been a member of the planning committee
    * Encourage men to apply to the Book Dash planning committee for May
    * Agree on 2024 Book Dash dates: 
-   * 1st edition: 13-17 May - (TBA: timeline, forms below) / ALE will book rooms at The Turing and add it in the calendar
+   * 1st edition: 13-17 May - (TBA: timeline, forms below) / ALE will book rooms at The Turing and add it in the calendar [UPDATE - following a Slack discussion Book Dash is being held 3-6 June instead to accommodate annual leave from team members]
    * 2nd edition: Will be reviewed in the next meeting
    * ~~Option A:  12-16 Nov (not a good time as it interferes with Research Data Alliance and the Carpentry Connect Con will take place between 12-14 November)~~
    * Option B: 04-08 Nov (slight preference from Arielle)
