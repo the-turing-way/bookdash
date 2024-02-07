@@ -8,7 +8,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
 
 ### Code of conduct
 
-\_The Turing Way\_ Code of conduct applies to this call. Take a moment to read this: [https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE\_OF\_CONDUCT.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE\_OF\_CONDUCT.md)
+*The Turing Way* Code of conduct applies to this call. Take a moment to read this: [https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE\_OF\_CONDUCT.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE\_OF\_CONDUCT.md)
 
 * For any question or concern please reach out to Malvika and Anne (msharan@turing.ac.uk, asteele@turing.ac.uk).
 
