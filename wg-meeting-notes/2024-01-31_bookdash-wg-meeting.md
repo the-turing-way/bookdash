@@ -38,7 +38,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
            * Batool Almarzouq: part of Translation & Localisation WG
            * Johanna Bayer
            * Liz Hare: part of the Accessibility WG
-           * - Saranjeet Kaur
+           * Saranjeet Kaur
            * - Winny Nekesa
            * - Alejandro? hasn't been a member of the planning committee
    * - Encourage men to apply to the planning committee
