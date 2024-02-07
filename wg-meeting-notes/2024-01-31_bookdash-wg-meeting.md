@@ -30,7 +30,7 @@ The Turing Way Book Dash Working Group meets on a monthly basis
        * Planning committee is self nomination from community members who have previously attended a Book Dash
        * WG has previous members of Book Dash planning committee as one of the key components
        * Aiming for 5 people in the WG
-       * - List of previous planning committee members. Several of these people are already engaged in WGs and so we don't want to over load them with another WG. We also want more people not Turing staff as EK and AB are turing staff.
+       * List of previous planning committee members. Several of these people are already engaged in WGs and so we don't want to overload them with another WG. We also want more people not Turing staff as EK and AB are Turing staff.
            * - Susana Roman-Garcia ---> To be asked
            * - Carlos - may be too busy  ----> to be asked
            * - Andrea Sanchez-Tapia: part of the Translation and localisation
