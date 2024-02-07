@@ -7,7 +7,7 @@ Participants also contribute to enhancing the project by improving the ways we w
 
 Find out more about the Book Dash [here](https://the-turing-way.netlify.app/community-handbook/bookdash).
 
-![A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/first-pull-request.svg "First pull request")
+![A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/blob/main/first-pull-request.svg "First pull request")
 
 ## Book Dash Working Group
 
@@ -29,7 +29,5 @@ Our working group meeting notes can be found [here](https://github.com/the-turin
 Current members of our community that have previously joined a Book Dash can apply to be on the planning committee for an individual Book Dash event.
 At least one Book Dash Working Group member will attend planning committee meetings to support communication between the two groups.
 Find out more about the Book Dash planning committee [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection).
-
-Need to discuss more in next meeting how we want the two groups to interact.
 
 
