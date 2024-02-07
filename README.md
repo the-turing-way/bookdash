@@ -27,7 +27,7 @@ Our working group meeting notes can be found [here](https://github.com/the-turin
 
 ## Book Dash Planning Committee
 Current members of our community that have previously joined a Book Dash can apply to be on the planning committee for an individual Book Dash event.
-
+At least one Book Dash Working Group member will attend planning committee meetings to support communication between the two groups.
 Find out more about the Book Dash planning committee [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection).
 
 
