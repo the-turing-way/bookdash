@@ -7,12 +7,14 @@ Participants also contribute to enhancing the project by improving the ways we w
 
 Find out more about the Book Dash [here](https://the-turing-way.netlify.app/community-handbook/bookdash).
 
-![A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/first-pull-request.svg "First pull request")
+![A person helping out another person making their first pull request on GitHub](https://github.com/the-turing-way/bookdash/blob/main/first-pull-request.svg "First pull request")
 
 ## Book Dash Working Group
 
 The Book Dash Working Group was initiated in January 2024. 
+
 It's purpose is to make long term strategic decisions about the Book Dash events - to be decided and agreed in a future meeting.
+
 Members of the working group will serve for at least one year and need to have previous experience of being on the Book Dash planning committee.
 
 ### Current members of the working group
@@ -27,9 +29,9 @@ Our working group meeting notes can be found [here](https://github.com/the-turin
 
 ## Book Dash Planning Committee
 Current members of our community that have previously joined a Book Dash can apply to be on the planning committee for an individual Book Dash event.
-At least one Book Dash Working Group member will attend planning committee meetings to support communication between the two groups.
-Find out more about the Book Dash planning committee [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection).
 
-Need to discuss more in next meeting how we want the two groups to interact.
+At least one Book Dash Working Group member will attend planning committee meetings to support communication between the two groups.
+
+Find out more about the Book Dash planning committee [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection).
 
 
