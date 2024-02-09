@@ -40,6 +40,18 @@
         "eventOrganizing",
         "review"
       ]
+    },
+    {
+      "login": "AlexandraAAJ",
+      "name": "Alexandra Araujo Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124181438?v=4",
+      "profile": "https://github.com/AlexandraAAJ",
+      "contributions": [
+        "doc",
+        "ideas",
+        "eventOrganizing",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
