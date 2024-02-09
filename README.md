@@ -1,6 +1,6 @@
 # The Turing Way Book Dash 📚💨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is being used to document processes and decisions made for *The Turing Way* Book Dash.
@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://fosstodon.org/@neocarlitos"><img src="https://avatars.githubusercontent.com/u/7782231?v=4?s=100" width="100px;" alt="Carlos Martinez"/><br /><sub><b>Carlos Martinez</b></sub></a><br /><a href="https://github.com/the-turing-way/bookdash/commits?author=c-martinez" title="Documentation">📖</a> <a href="#ideas-c-martinez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-c-martinez" title="Event Organizing">📋</a> <a href="https://github.com/the-turing-way/bookdash/pulls?q=is%3Apr+reviewed-by%3Ac-martinez" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KirstieJane"><img src="https://avatars.githubusercontent.com/u/3626306?v=4?s=100" width="100px;" alt="Kirstie Whitaker"/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="https://github.com/the-turing-way/bookdash/commits?author=KirstieJane" title="Documentation">📖</a> <a href="#ideas-KirstieJane" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-KirstieJane" title="Event Organizing">📋</a> <a href="https://github.com/the-turing-way/bookdash/pulls?q=is%3Apr+reviewed-by%3AKirstieJane" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
