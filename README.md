@@ -1,6 +1,6 @@
 # The Turing Way Book Dash 📚💨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is being used to document processes and decisions made for *The Turing Way* Book Dash.
@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="https://github.com/the-turing-way/bookdash/commits?author=EKaroune" title="Documentation">📖</a> <a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt="Esther Plomp"/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="#ideas-EstherPlomp" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/the-turing-way/bookdash/commits?author=EstherPlomp" title="Documentation">📖</a> <a href="#eventOrganizing-EstherPlomp" title="Event Organizing">📋</a> <a href="https://github.com/the-turing-way/bookdash/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
