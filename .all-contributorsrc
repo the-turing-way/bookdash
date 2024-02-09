@@ -90,6 +90,18 @@
         "eventOrganizing",
         "review"
       ]
+    },
+    {
+      "login": "c-martinez",
+      "name": "Carlos Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7782231?v=4",
+      "profile": "https://fosstodon.org/@neocarlitos",
+      "contributions": [
+        "doc",
+        "ideas",
+        "eventOrganizing",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
