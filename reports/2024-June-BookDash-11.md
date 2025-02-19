@@ -13,7 +13,7 @@ Abasi-amefon Affia, Alexandra Araujo Alvarez (*), Amin Mekacher, Amina Akhmetbek
 
 (*) June Book Dash Planning Committee 2024 members.
 
-## Highlights - Esther
+## Highlights
 
 * 27 issues and 14 pull requests were submitted on a spectrum of topics – from the foreword of The Turing Way, drop in sessions, examining power in Data Feminism, Academic-Industry collaborations, Sustainability of Open Source projects, Hybrid Collaboration, Accessibility, mental health, missing data, identifying learner needs, curriculum development, embedding data science and ethics in education, and beyond!
 * We had an in-person hub in London and a tiny Monday morning Dutch Hub.
@@ -24,7 +24,7 @@ Abasi-amefon Affia, Alexandra Araujo Alvarez (*), Amin Mekacher, Amina Akhmetbek
 * Arielle Bennett and Esther Plomp led a discussion on social change that lasted for 2 hours (!) and resulted into a new Scriberia images (and hopefully new chapter!).
 * Two Community Share-outs were hosted by Emma Karoune and Arielle Bennett, where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
 
-## Book Dash Planning Committee - all
+## Book Dash Planning Committee
 
 - Anne Lee Steele is the Research Community Manager of The Turing Way. She provided the Book Dash Planning Committee operational support during the planning process, coordinated the communications campaign, and supported the trainings before the event.
 - Alexandra Araujo Alvarez is Sr Research Community Manager for BridgeAI. She provided the Book Dash Planning Committee operational support, specially in the in-person hub in London, booking the rooms and providing snacks to attendees. 
@@ -34,11 +34,11 @@ Abasi-amefon Affia, Alexandra Araujo Alvarez (*), Amin Mekacher, Amina Akhmetbek
 - Emmanuel Adamolekun is is a Research fellow with Helix Biogen Institute, Ogbomosho, Nigeria ,a research organization focused on accelerating research in life through in-depth technical skills, training and capacity building in Bioinformatics and Genomics.
 - Esther Plomp is a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, the Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility - and leads the partnership with TU Delft.
 - Liz Hare is a researcher in the working dog field. She has participated in three Book Dashes and is the Co-lead of the Accessibility Working Group.
-- Winny..
+- Winny Nekesa Akullo is the Head, Library and Documentation Centre at PPDA. She is currently the IASSIST Africa Regional Secretary.
 - Denise Bianco is a Skills Officer at The Alan Turing Institute and a PhD Candidate and Lecturer at the University of the Arts London. In this Book Dash, she has supported the Educators stream, facilitated discussions, and contributed to chapters on curriculum development and embedding Data Science across disciplines.
 - Mishka Nemes is a Skills Manager at The Alan Turing Institute leading a programme of work aimed at designing, developing and implementing learning interventions for a range of audiences to become better equipped with AI knowledge & skills. In this book dash, she has coordinated the Educators stream, facilitated discussions, and contributed to chapters on pedagogical resources.
 
-## Format of the event - Esther
+## Format of the event
 The June 2024 edition of Book Dash featured 36 contributors, 11 committee members, 20 online working sessions, four discussions and social events, and two community share-outs. We used [the checklists](https://github.com/the-turing-way/the-turing-way/issues/3367) for day/session leads to ensure the planning committee was prepared to host the event. 
 
 Since November 2020, the Book Dashes have been hosted mostly online  with multiple short co-working called development sessions spread over five days for flexible participation by members. This format allows people in different time zones to participate with the same efficiency and equitable support.
@@ -47,7 +47,7 @@ This involved creating shared documents with all the information, providing supp
 
 Similar to the previous Book Dashes in 2022 and 2023, we also had a local hub hosted in London at The Alan Turing Institute with modifications introduced for the in-person participants to plan their day offline. A mini Dutch hub also took place at TU Delft on 3 of June.
 
-## Application, Review and Selection process - Esther
+## Application, Review and Selection process
 
 As in the past, we invited applications through an open call where interested applicants could state their goals and interest in the Book Dash. Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process.
 
@@ -55,7 +55,7 @@ Applicants were asked to describe what they wanted to contribute to the Turing W
     
 The Book Dash Planning Committee used the rubrics to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
 
-## Timeline - Esther
+## Timeline
 
 - Call for application to join the Book Dash Planning Committee and local hub start date: 15 February 2024
 - Deadline to complete the Expression of Interest to Join The Turing Way Book Dash Committee and local hubs: 8 March 2024 – Extended to 15 March 2024
@@ -73,7 +73,7 @@ The Book Dash Planning Committee used the rubrics to score the applications duri
 - Debrief planning committee: 10 June
 - Deadline progress report: 15 July
 
-## Educator group - Mishka/Denise
+## Educator group
 
 This edition of the Book Dash welcomed a group of educators from the Data Science and AI Educators Programme (DSAIEP), which ran twice in 2022 and 2023.
 
@@ -97,7 +97,7 @@ During the Book Dash, the following chapters were developed:
 
 Although these weren't published at the end of the Book Dash, the contributors agreed to keep working on them during Collaboration Cafe and other co-working moments, as well as asynchronously, to have them added to the book and ready for review by September 2024.
 
-## GitHub activities: New and existing Pull Requests and Issues that attendees worked on - Emma
+## GitHub activities: New and existing Pull Requests and Issues that attendees worked on
 
 ### Issues (#27)
 * [Missing data handling](https://github.com/the-turing-way/the-turing-way/issues/3593)
@@ -144,7 +144,7 @@ Although these weren't published at the end of the Book Dash, the contributors a
 * [Update ways of working in the localisation team](https://github.com/the-turing-way/the-turing-way/pull/3748)
 * [Add guidance for Website Accessibility to Guide for Accessibility]( https://github.com/the-turing-way/the-turing-way/pull/3755)
 
-## New and existing chapter updates - Emma
+## New and existing chapter updates
 * [Ambassador Schemes chapter](https://book.the-turing-way.org/collaboration/ambassador-schemes)
 * [Foreword section](https://book.the-turing-way.org/foreword/foreword)
 * [Drop in sessions sub-chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-dropins)
@@ -155,7 +155,7 @@ Although these weren't published at the end of the Book Dash, the contributors a
 * [Update to the Hybrid Collaboration chapter](https://github.com/the-turing-way/the-turing-way/pull/3730)
 
 
-##  Our attendees also led and participated in the following informal discussions and public events: - Arielle
+##  Our attendees also led and participated in the following informal discussions and public events:
 * Arielle Bennett and Emma Karoune kicked off the social sessions with an exciting session about "Adding images into the book" where participants were given templates and guidelines to help them insert Scriberia images from the archive into the book with alt text.
 * Kirstie Whitaker led the 'Show and Tell' lunch session.
 * Jennifer Ding led a social session about 'Collective Data Governance for ML datasets', presenting about project case studies and holding discussions about how this affects open source practices.
