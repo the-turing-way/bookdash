@@ -17,7 +17,7 @@ This issue is for the event organisers, **if you are an applicant please use thi
 We are also inviting interest from The Turing Way community members to host a local hub, see details and share your response via a separate Google form: [add registration form link]
 
 ------------------------------------------------------------------
-We have created the following checklists, which are structured to help organise Book Dashes online or in-person. Some of the tasks on the checklist should be simuoltaneously.
+We have created the following checklists, which are structured to help organise Book Dashes online or in-person. Some of the tasks on the checklist should be completed simultaneously.
 
 # Before the Event -- all online
 
