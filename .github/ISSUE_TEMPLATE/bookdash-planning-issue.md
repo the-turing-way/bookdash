@@ -17,7 +17,7 @@ This issue is for the event organisers, **if you are an applicant please use thi
 We are also inviting interest from The Turing Way community members to host a local hub, see details and share your response via a separate Google form: [add registration form link]
 
 ------------------------------------------------------------------
-We have created the following checklists, which are structured to help organise Book Dashes online or in-person.
+We have created the following checklists, which are structured to help organise Book Dashes online or in-person. Some of the tasks on the checklist should be simuoltaneously.
 
 # Before the Event -- all online
 
@@ -76,6 +76,7 @@ We have created the following checklists, which are structured to help organise 
 - [ ] Collate participants’ preference for travel, meal, accommodation, and accessibility request through the registration form
 - [ ] Send an email to the participants regarding their travel, accommodation, schedule, and meal
 - [ ] Book catering for lunch and coffee breaks
+- [ ] Review and confirm that there are no train strikes or any possible barrier to join in-person
 - [ ] Double-check with each participant if their plan as given on their registration hasn’t changed
 **When funding for travel and accommodation is available**
 - [ ] Book hotels rooms for people who requested accommodation
@@ -86,8 +87,8 @@ We have created the following checklists, which are structured to help organise 
 
 ## During the Event - Planning Committee Leads
 -  [ ] Run onboarding sessions on the first day or for the first session
-  - One of the organisers delivers introduction talk
-  - Offer an onboarding breakout room 
+  - [ ] One of the organisers delivers introduction talk
+  - [ ] Offer an onboarding breakout room 
 - For each session (session lead to do)
   - Announce it is starting in the Slack channel
   - Welcome everyone (for each slot)
@@ -105,9 +106,10 @@ We have created the following checklists, which are structured to help organise 
 - [ ] Take screenshots or group photos (with permission) to share in reports or social media
 
 ## After the Event - Planning Committee leads with support from Community Working Group / Research Community Manager
-- [ ] Send a thank you email to everyone on the Planning Committee for their work
+- [ ] Sends a thank you email to everyone on the Planning Committee for their work
 - [ ] Send a thank you email to participants for their work 
 - [ ] Move bio and highlight from the GitHub issue to the Contributors Record
+- [ ] Set up a debrief meeting with the planning committee and coordinate the report writing tasks
 - [ ] Write up report of the event (number of pull requests, issue, chapters, and other significant news) to share with the participants and public
 - [ ] Share the update via the newsletter
-- [ ] Set up a debrief meeting with the planning committee
+
