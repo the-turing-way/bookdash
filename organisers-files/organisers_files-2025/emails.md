@@ -1,6 +1,6 @@
 # Communications for Acceptance Emails
 
-## 2024
+## Acceptance Email
 
 Subject: Your The Turing Way Book Dash application has been successful!
 
