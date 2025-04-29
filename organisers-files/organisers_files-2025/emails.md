@@ -1,32 +1,4 @@
-# Communications for 
-
-## Conditional Acceptance
-
-Dear applicant,
- 
-We thank you for applying to participate in The Turing Way Book Dash event.
- 
-The Turing Way team has reviewed your application to assess your readiness for the Book Dash, goals for the project contributions, your willingness to collaborate with others and contribute to the Turing Way project, your motivation for participation, and what you will get out of the book dash. 
- 
-We noted that your application lacked some important details and that you haven’t previously engaged in The Turing Way project, community, and/or GitHub repository where the Book Dash attendees add their contributions.
- 
-To guarantee your readiness for the Book Dash and goals for the project contributions, we would like you to commit to the following steps before the main event:
- 
-Attend a Collaboration Cafe before the Book Dash: The next one will be hosted on the 15th of May from 3:00 to 5:00 pm UK Time. You can find the joining information here: https://annuel2.framapad.org/p/ttw-collaboration-cafe
-Attend a Github training session: If you don’t have prior experience working with GitHub in general, we ask that you attend an introduction session on 29 May (1.5 hours)
-Join one of the onboarding sessions on 29 May (1 hour): After this Onboarding session, we will support you in identifying 1-2 goals that you can collaborate on with other attendees ensuring that your time during the Book Dash is beneficial for you as well as meaningful for the community.
- 
-After attending the upcoming Collaboration Café and confirming the above details, we will be able to send you the next set of details with an invitation to join the Book Dash. 
- 
-Please don’t hesitate to get in touch if you have any queries. For any questions, contact Anne (Community Manager), CC'd in this email, who can forward your query on to the Book Dash Working Group, Planning Committee, and/or The Turing Way Delivery team as needed.
- 
-We’re looking forward to hearing from you soon!
- 
-Best wishes,
-The Turing Way Book Dash Planning Committee – June 2024
-(Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Carlos Martinez, Emma Karoune, Esther Plomp, Denise Bianco, Emmanuel Adamolekun, Liz Hare, Mishka Nemes, Winny Nekesa)
-
-## Acceptance
+# Communications for Acceptance Emails
 
 ## 2024
 
