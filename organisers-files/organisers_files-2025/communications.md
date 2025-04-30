@@ -30,6 +30,19 @@ How do I apply?
 
 At our Collaboration Cafe on 2 April 2024, we'll be hosting an open Q&A about the Book Dash.
 
+## Community Share-outs
+
+🌟 Join us at our Community Share-outs at 11am and 5pm UK time! 🌟
+
+💫Learn more about The Turing Way community and project
+💫Join an international remote community
+💫Celebrate contributors from our Book Dash event
+
+📅 22 May
+⏰ 11:00 and 17:00 UTC+1
+
+Sign-up here: https://forms.gle/1HWoqoEdLfmMjJkn9
+
 ## Github workshop
 
 A reminder - our biannual Github workshop is happening next week! 
