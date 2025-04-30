@@ -1,4 +1,4 @@
-# Social media about the Book Dash & Planning Committee
+# Social media communications
 
 ## Base text used to promote the Book Dash applications
 
