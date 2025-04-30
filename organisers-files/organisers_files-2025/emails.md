@@ -10,7 +10,6 @@ Congratulations! Your Book Dash application has been successful and we would lik
  
 The Turing Way Book Dash Committee members have reviewed your application to assess your readiness for the book dash, goals for the project contributions, your willingness to collaborate with others and contribute to The Turing Way project, your motivation for participation, and what you will get out of the Book Dash. Your application met all the criteria! 🎊
  
-While reading the applications we identified specific contributions that we felt would be particularly beneficial to The Turing Way at this time, which we will share in a separate email in the follow weeks.
  
 Next steps:
 - Please confirm your attendance by Monday 5 May 2025 (by end of day) by completing this form: https://forms.gle/2oqgSEdVEhxnXUqo6
