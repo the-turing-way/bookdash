@@ -16,7 +16,8 @@ Next steps:
 - This form asks you to sign-up for the sessions (onboarding, Github workshop, contribution sessions, and share outs) you plan to attend before and during the Book Dash. While you can always change your planned sessions (and there’s no obligation to attend all of them!), this helps us with the planning process.
 - We will invite you all to our Slack Workspace and a private channel for the May 2025 Book Dash, please let us know if you would like us to send this invite in a different email to one sent here.
  
-This form will also allow you to provide details related to your participation and accessibility support you might need, that we will aim to book for you in advance. **Unfortunately, we are not able to offer fiscal support for this May 2025 Book Dash.** However, we are committed to offering access-related support to enable your engagement in the Book Dash If you have any special requirements not covered as part of the registration, please do get in touch as soon as possible and we will arrange support. 
+This form will also allow you to provide details related to your participation and accessibility support you might need, that we will aim to arrange in advance. You can read more about our existing accessibility practices here: https://book.the-turing-way.org/community-handbook/accessibility/accessibility-event-organising
+**Unfortunately, we are not able to offer fiscal support for this May 2025 Book Dash,** however, we are committed to offering access-related support to enable your engagement. If you have any special requirements not covered in our existing practices, please do get in touch as soon as possible and we will arrange support. 
  
 Please don’t hesitate to get in touch if you have any questions or concerns. For any questions, please contact Anne (Community Manager), CC'd in this email, who can forward your query on to the Book Dash Working Group, Planning Committee, and/or The Turing Way Delivery team as needed.
  
