@@ -19,7 +19,7 @@ Next steps:
 This form will also allow you to provide details related to your participation and accessibility support you might need, that we will aim to arrange in advance. You can read more about our existing accessibility practices here: https://book.the-turing-way.org/community-handbook/accessibility/accessibility-event-organising
 **Unfortunately, we are not able to offer fiscal support for this May 2025 Book Dash,** however, we are committed to offering access-related support to enable your engagement. If you have any special requirements not covered in our existing practices, please do get in touch as soon as possible and we will arrange support. 
  
-Please don’t hesitate to get in touch if you have any questions or concerns. For any questions, please contact Anne (Community Manager), CC'd in this email, who can forward your query on to the Book Dash Working Group, Planning Committee, and/or The Turing Way Delivery team as needed.
+Please don’t hesitate to get in touch if you have any questions or concerns. For any questions, please contact Anne (Community Manager), CC'd in this email, who can forward your query on to the Book Dash Planning Committee, and/or The Turing Way Delivery team as needed.
  
 We’re looking forward to meeting you soon!
  
