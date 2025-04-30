@@ -1,4 +1,4 @@
-# Communications about the Book Dash & Planning Committee
+# Social media about the Book Dash & Planning Committee
 
 ## Base text used to promote the Book Dash applications
 
@@ -29,6 +29,18 @@ How do I apply?
 3️⃣ Reach out if you have any questions, we're here to help! Join a #CollaborationCafe, get started with ongoing discussions on Github, and/or join us on Slack!
 
 At our Collaboration Cafe on 2 April 2024, we'll be hosting an open Q&A about the Book Dash.
+
+## Reminder for applications
+
+🚨REMINDER: Applications are due for our May Book Dash by 20 April 2025🚨
+
+Join us for two days of collaboration & meet community members from around the world! 🌎🌍🌏
+
+Check out this post for more info about applying:
+👉 https://fosstodon.org/@turingway/114239952502973923
+
+Learn about Book Dash events below 👇
+
 
 ## Community Share-outs
 
