@@ -1,6 +1,5 @@
 # Communications about the Book Dash & Planning Committee
 
-
 ## Base text used to promote the Book Dash applications
 
 👋 Hello, World! 👋🗺️
@@ -30,3 +29,18 @@ How do I apply?
 3️⃣ Reach out if you have any questions, we're here to help! Join a #CollaborationCafe, get started with ongoing discussions on Github, and/or join us on Slack!
 
 At our Collaboration Cafe on 2 April 2024, we'll be hosting an open Q&A about the Book Dash.
+
+## Github workshop
+
+A reminder - our biannual Github workshop is happening next week! 
+
+Sign-up to join on the form below 👇
+
+⚒️ Learn how to use the Github platform
+⚒️ Make your first Pull Request
+⚒️ Find out how to contribute to The Turing Way project
+
+📅 6 May
+⏰ 17:00 - 18:30 London time
+
+Form: https://forms.gle/GBrBmpbJ4DdTyGn5A
