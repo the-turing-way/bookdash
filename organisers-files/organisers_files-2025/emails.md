@@ -76,8 +76,48 @@ Best wishes,
 The Turing Way Book Dash Planning Committee – November 2024
 (Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Emma Karoune, Esther Plomp, Goodnews Sandy, Jennifer Ding, Léllé Demertzi, Liz Hare, Patricia Loto)
 
-
 ## Day 3
+
+Hi all,
+ 
+Today kicks off the third day of Book Dash! 🎉
+ 
+We’re already seeing pull requests opened and merged – and we’re only halfway through the Book Dash!
+ 
+As always, our day lead & session leads will be sending alerts in our Slack channel, but as a reminder: 
+We have two social sessions planned, during Session 2 (with Kirstie) in English and during Session 4 (con Patricia) in Spanish. The Show & Tell is a long-time tradition of The Turing Way community and always a ton of fun, please join us!
+It is already time to start planning your Scriberia images. Sign up for a 30-45 minute slot on our pad for day 4 (line 168) and bring your big idea!
+If you haven’t saved all the links we’ve shared – as always, never fear! You can find them all on our start page: https://ttw-book-dash-nov24.start.page.
+ 
+Please let us know if you have any issues joining the call or have any other questions today. 
+ 
+Happy Book Dashing!
+ 
+Best wishes,
+The Turing Way Book Dash Planning Committee – November 2024
+(Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Emma Karoune, Esther Plomp, Goodnews Sandy, Jennifer Ding, Léllé Demertzi, Liz Hare, Patricia Loto)
+
+## Day 4 
+
+Hi all,
+ 
+We are already on day four of Book Dash – our last full contribution day! 🎉
+ 
+As always, our day lead & session leads will be sending alerts in our Slack channel, but as a reminder: 
+Don’t forget that we will have a Scriberia artist joining us all today. Sign up for a 30-45 minute slot on our pad for day 4 (line 168) and bring your big idea!
+Our social session will take place during Session 3, hosted by @Emma Karoune. Please join us to discuss and feedback on the UNESCO principles for open science.
+As always: if you haven’t saved all the links we’ve shared – as always, never fear! You can find them all on our start page: https://ttw-book-dash-nov24.start.page.
+ 
+Please let us know if you have any issues joining the call or have any other questions today. 
+ 
+Happy Book Dashing!
+ 
+Best wishes,
+The Turing Way Book Dash Planning Committee – November 2024
+(Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Emma Karoune, Esther Plomp, Goodnews Sandy, Jennifer Ding, Léllé Demertzi, Liz Hare, Patricia Loto)
+ 
+ 
+## Day 5
 
 Hi all,
  
