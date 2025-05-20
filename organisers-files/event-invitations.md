@@ -88,3 +88,26 @@ Best,
 The Turing Way Book Dash Planning Committee – May 2025
 (Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
 
+## Community Share-outs
+
+Note: if you received this invitation by mistake, please respond directly to this event invitation with asteele@turing.ac.uk in CC.
+
+Hi all,
+
+This event is a calendar hold for our Community Share-outs and Contributor Celebration event, held on the last day of The Turing Way Book Dash. There are two sessions being held on Thursday, 22 May. 
+
+This calendar invitation is being sent out to all TPS team members at the Turing, as well as collaborators and volunteers within the project. We would love to see you there!
+
+The form being used to gather event sign-ups is here: https://forms.gle/gizbUWmZ4phA2Xbu6. Please share widely! 
+
+Both sessions, taking place at 11am (in your timezone)and 5pm UK time (in your timezone) will use the following zoom link:
+https://turing-uk.zoom.us/j/96686901187?pwd=LnaaAWMlAxmCrC274322CTJt7ZYIVm.1&from=addon
+Meeting ID: 966 8690 1187
+Passcode: 155661
+
+If you are having any trouble the day of with accessing the zoom or otherwise, please reach out to Anne (asteele@turing.ac.uk) directly.
+
+Best,
+The Turing Way Book Dash Planning Committee – May 2025 
+(Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
+
