@@ -69,3 +69,20 @@ Sign-up to join on the form below 👇
 ⏰ 17:00 - 18:30 London time
 
 Form: https://forms.gle/GBrBmpbJ4DdTyGn5A
+
+## Kick-off
+
+This week kicks off our 13th Book Dash!
+
+Our contributors will be hard at work over the next two days of collaboration and community.
+
+🌟 Please join us at our Community Share-outs at 11am and 5pm UK time! -Open to all!🌟
+
+💫Learn more about The Turing Way community and project
+💫Join an international remote community
+💫Celebrate contributors from our Book Dash event
+
+📅 22 May
+⏰ 11:00 and 17:00 UTC+1
+
+Sign up on google forms: https://forms.gle/1HWoqoEdLfmMjJkn9
