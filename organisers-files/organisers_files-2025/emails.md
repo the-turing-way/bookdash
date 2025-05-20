@@ -55,18 +55,20 @@ Best wishes,
 The Turing Way Book Dash Planning Committee – May 2025
 (Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
 
-## Day 4 
+## Day 2
 
-**Subject: Day 2 of Book Dash !**
+**Subject: Welcome to Day 2 of Book Dash!**
 
 Hi all,
  
-We are already on day four of Book Dash – our second and last full contribution day! 🎉
+We are already on day two of Book Dash – our final full contribution day of this Book Dash! 🎉
+
+This year we have a condensed format of two days rather than four days of contribution sessions... which means that it's already time to be reviewing pull requests and projects from these two days.
  
 As always, our day lead & session leads will be sending alerts in our Slack channel, but as a reminder: 
 - Our social session will take place during Session 3, hosted by @Sara Villa and @Lelle D. Please join us to for our show and tell!
 - As always: if you haven’t saved all the links we’ve shared – as always, never fear! You can find them all on our start page: https://ttw-book-dash-nov24.start.page
-- Don't forget to share the invitations to our community share-outs widely: https://forms.gle/5Df7AsRsh7jd8obm9
+- Don't forget to share the invitations to our community share-outs widely for tomorrow: https://forms.gle/5Df7AsRsh7jd8obm9
  
 Please let us know if you have any issues joining the call or have any other questions today. 
  
@@ -76,8 +78,9 @@ Best wishes,
 The Turing Way Book Dash Planning Committee – May 2025
 (Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
 
-
 ## Community Share-outs!
+
+**Subject: Join us at our Community Share-out sessions!**
 
 Hi all,
  
