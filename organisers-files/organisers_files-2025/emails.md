@@ -84,9 +84,9 @@ The Turing Way Book Dash Planning Committee – May 2025
 
 Hi all,
  
-Can you believe that we’re already on Day 5 – the final day of Book Dash? 🎉
+Can you believe that we’re already on Day 3 – the final day of Book Dash? 🎉
  
-This week, you might have made your first issue, worked on a collaborative pull request, drafted a new chapter, or written alt text for the first time You might have had an inspiring conversation, discussed open science policy, made a meme, or shared something important to you. 20 contribution sessions and 5 social sessions later – it’s time to showcase your fantastic work!
+This week, you might have made your first issue, worked on a collaborative pull request, drafted a new chapter, or written alt text for the first time You might have had an inspiring conversation, discussed open science policy, made a meme, or shared something important to you. 10 contribution sessions and 2 social sessions later – it’s time to showcase your fantastic work!
  
 This day is a special one, and with that there are a few final reminders: 
 - There are two sessions planned for today at 11am London time at 5pm UK time – please add your issues, pull requests, links, and more to our Day 5 pad: https://annuel2.framapad.org/p/ttw-bookdash-may25-shareouts
