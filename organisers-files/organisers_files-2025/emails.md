@@ -31,27 +31,29 @@ The Turing Way Book Dash Planning Committee – May 2025
 
 ## Day 1
 
+**Subject: Today kick's off our 13th Book Dash with The Turing Way!**
+
 Hi all,
  
-Welcome to the 12th Book Dash with The Turing Way!
+Welcome to the 13th Book Dash with The Turing Way!
  
 After weeks of preparation, meeting other attendees, writing your SMART goals, and perhaps even learning how to use Github – today’s the day! 🎉
  
-Today we kick off a week of collaboration and community with our global community. 😊
+Today we kick off two days of collaboration and community with our global community. 😊
  
 A few final reminders as we get started:
-Members of the Book Dash Planning committee will be hosting 5 contribution sessions throughout the day, in 2.5 hour periods. You’ll get pings & reminders throughout the day, so don’t forget to tune into your notifications on Slack.
-Today’s social session will take place during Session 3: @Emma Karoune will be leading a contribution session on adding scriberia images to our guides – what is quickly becoming a Book Dash tradition!
-For first time attendees: while we have made a preliminary list of breakout rooms, themed around the topics you had submitted your application about, we know that things are bound to change during the magic of Book Dash (they always do!)
-Session schedules: Don’t forget that you can subscribe to the event calendar or take a look at our event schedule for the week to refresh what sessions you had originally signed up for. Don’t worry – we understand that schedules change, you’re very welcome to join any that you’re available for.
+•	Members of the Book Dash Planning committee will be hosting 5 contribution sessions throughout the day, in 2.5 hour periods (except for the last session). You’ll get pings & reminders throughout the day, so don’t forget to tune into your notifications on Slack. 
+•	Today’s social session will take place during Session 3: @Patricia Herterich will be leading a treasure hunt, a great way to kick off the event!
+•	For first time attendees: while we have made a preliminary list of breakout rooms, themed around the topics you had submitted your application about, we know that things are bound to change during the magic of Book Dash (they always do!)
+•	Session schedules: Don’t forget that you can subscribe to the event calendar or take a look at our event schedule for the week to refresh what sessions you had originally signed up for. Don’t worry – we understand that schedules change, you’re very welcome to join any that you’re available for.
  
-If you haven’t saved all the links we’ve shared – never fear! You can find them all on our start page: https://ttw-book-dash-nov24.start.page
- 
+If you haven’t saved all the links we’ve shared – never fear! You can find them all on our start page: https://ttw-book-dash-may25.start.page
+
 Please let us know if you have any issues joining the call or have any other questions today. Happy Book Dashing!
  
 Best wishes,
-The Turing Way Book Dash Planning Committee – November 2024
-(Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Emma Karoune, Esther Plomp, Goodnews Sandy, Jennifer Ding, Léllé Demertzi, Liz Hare, Patricia Loto)
+The Turing Way Book Dash Planning Committee – May 2025
+(Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
 
 ## Day 2
 
