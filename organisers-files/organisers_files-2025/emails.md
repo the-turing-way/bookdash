@@ -100,3 +100,25 @@ Best wishes,
 The Turing Way Book Dash Planning Committee – May 2025
 (Arielle Bennett, Anne Lee Steele, Alexandra Araujo Alvarez, Carlos Martinez, Emma Karoune, Esther Plomp, Léllé Demertzi, Liz Hare, Patricia Herterich, Precious Onyewuchi, Sara Villa, Seun Olufemi)
 
+## Post-event close-out
+
+Hi all,
+ 
+Thank you for joining us for our 13th Book Dash on 20-22 May 2025! As always, it was a busy and beautiful week full of collaborations and conversations across our wonderful community. 😊
+ 
+We're not done yet! In the coming weeks, we will be sending over more information with reminders and updates as we close out for the year. In the meantime, we ask you to take the following steps:
+- We would love to hear your feedback about the event. Please log your pluses (things you enjoyed) and deltas (things you would have changed or would like to change) on our feedback pad: https://annuel2.framapad.org/p/ttw-bookdash-nov24-feedback
+- Using your Github username, please add your contribution information to this Github issue, which will be to track contributions in our Contributors Record: https://github.com/the-turing-way/the-turing-way/issues/3854
+ 
+Stay tuned for a few other updates:
+Scriberia sent us a copy of the illustrations from this Book Dash (without text labels), which you can access here: https://drive.google.com/drive/folders/1ZbKOsERhSrzxVV5qyLvUfxYwanQLszWD?usp=drive_link. Please add your requests for edits directly to the following sheet: https://lite.framacalc.org/bookdash-nov24-scriberia-edits
+All of the recordings for the Github trainings and Community Share-outs are currently being reviewed, and will be uploaded to our YouTube channel in the following weeks: https://www.youtube.com/@TheTuringWay/featured. 
+The Book Dash Committee is hard at work compiling our November 2024 report, which will be released and uploaded on Github – stay tuned.
+If you haven’t already, sign up for our newsletter on Buttondown (and/or follow us on social media) in order to stay up to date on upcoming events and applications. We’ll be releasing the call to join the Planning Committee for the November 2024 Book Dash soon, and would love to have you join us.
+ 
+Thanks again for joining us, we hope to see you at future Book Dashes!
+ 
+Best,
+The Turing Way Book Dash Planning Committee – November 2024
+(Alexandra Araujo Alvarez, Anne Lee Steele, Arielle Bennett, Emma Karoune, Esther Plomp, Goodnews Sandy, Jennifer Ding, Léllé Demertzi, Liz Hare, Patricia Loto)
+
