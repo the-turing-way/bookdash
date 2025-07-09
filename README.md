@@ -22,10 +22,13 @@ Members of the working group will serve for at least one year and need to have p
 
 ### Current members of the working group
 
-* Esther Plomp - Chair
-* Arielle Bennett - Secretary
+* Arielle Bennett - Chair
+* Esther Plomp 
+* Alexandra Araujo Alvarez - Secretary
 * Emma Karoune - Secretary
 * Carlos Martinez
+
+## Previous members of working group
 * Susana Roman Garcia
 
 Our working group meeting notes can be found [here](https://github.com/the-turing-way/bookdash/tree/main/wg-meeting-notes).
