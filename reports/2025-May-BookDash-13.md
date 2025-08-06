@@ -169,6 +169,18 @@ At the end of the event, we asked our participants to share feedback anonymously
    * Recruit facilitators for Book Dash sessions to allow planning committee members to have more time for their work contributions
 
 
-## May 2025 Book Dash Links - NEEDS UPDATING [Léllé]
+## May 2025 Book Dash Links
 
-- [Registration Form - General]([https://forms.gle/YXfdFLTqwc5YS59DA)](https://forms.gle/YXfdFLTqwc5YS59DA))    - [Aplicacion en español]([https://forms.gle/YXfdFLTqwc5YS59DA)](https://forms.gle/YXfdFLTqwc5YS59DA))    - [Video: Book Dash Application Walk-Through]([https://www.youtube.com/watch?v=ZG-KxZzOGXo)](https://www.youtube.com/watch?v=ZG-KxZzOGXo))    - [Video: Book Dash Tips for applying]([https://www.youtube.com/watch?v=yM2890OCOKk)-](https://www.youtube.com/watch?v=yM2890OCOKk)-) [Call for local hub hosts]([https://forms.gle/BcLEkf7y31URoxNr6)-](https://forms.gle/BcLEkf7y31URoxNr6)-) [Expression of Interest to Join The Turing Way Book Dash Committee]([https://forms.gle/YNUj7pqzabtHCimK8)-](https://forms.gle/YNUj7pqzabtHCimK8)-) [Registration Form - TUDelft]([https://forms.gle/oWumSxgQi3pDJMHbA)-](https://forms.gle/oWumSxgQi3pDJMHbA)-) [Start Page]([https://ttw-book-dash-nov24.start.page/)](https://ttw-book-dash-nov24.start.page/))    - [Pre-Book Dash Drop-in Office Hours]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-office-hours)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-office-hours)) (24 Oct \& 1 Nov)    - [Onboarding call notes]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-onboarding)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-onboarding)) (22 \& 23 Oct)    - [GitHub Skill-up Session]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-github)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-github)) (28 Oct)    - [Day 1, 4 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day1)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day1))    - [Day 2, 5 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day2)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day2))    - [Day 3, 6 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day3)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day3))    - [Day 4, 7 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day4)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day4))    - [Day 5, 8 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day5)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day5))        - [Sign-ups to Join Community Share-outs]([https://forms.gle/tAzefFkZJasgvfN28)](https://forms.gle/tAzefFkZJasgvfN28))    - [Post-event feedback]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-feedback)-](https://annuel2.framapad.org/p/ttw-bookdash-nov24-feedback)-) [Reports from the previous events]([https://github.com/the-turing-way/book-dash)](https://github.com/the-turing-way/book-dash))
+- [Registration Form - General](https://docs.google.com/forms/d/e/1FAIpQLSeQvyU_T9g6a9A-P8wBbakrCnlj1QvLaM1iOKrKW1xFRp9J6A/viewform)    
+- [Video: Book Dash Application Walk-Through](https://www.youtube.com/watch?v=ZG-KxZzOGXo)    
+- [Video: Book Dash Tips for applying](https://www.youtube.com/watch?v=yM2890OCOKk)
+- [Expression of Interest to Join The Turing Way Book Dash Committee](https://forms.gle/F1cGHmgLGxhgZRho9)
+- [Start Page](https://ttw-book-dash-may-25.start.page)
+- [Onboarding call notes, 6&7 May](https://annuel2.framapad.org/p/ttw-bookdash-may25-onboarding) 
+- [GitHub Skill-up Session, 6 May](https://annuel2.framapad.org/p/ttw-bookdash-may25-github)
+- [Day 1, 20 May](https://annuel2.framapad.org/p/ttw-bookdash-may25-day1)    
+- [Day 2, 21 May](https://annuel2.framapad.org/p/ttw-bookdash-may25-day2)    
+- [Day 3, 22 May - Shareouts](https://annuel2.framapad.org/p/ttw-bookdash-may25-shareouts)         
+- [Sign-ups to Join Community Share-outs](https://docs.google.com/forms/d/e/1FAIpQLSdv6JRtV1jCYAPNFGjaQULolPDA-F6uEvixTMBK7RqFVOJ61w/viewform)
+- [Post-event feedback](https://annuel2.framapad.org/p/ttw-bookdash-may25-feedback)
+- [Reports from the previous events](https://github.com/the-turing-way/book-dash)
