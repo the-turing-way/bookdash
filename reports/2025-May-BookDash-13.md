@@ -40,7 +40,7 @@ Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yank
 
 ## Format of the event 
 
-The May 2025 edition of Book Dash featured 32 contributors, 14 committee members, 8 online working sessions, two social events, and two community share-outs. We used [the checklists]([https://github.com/the-turing-way/the-turing-way/issues/3367)](https://github.com/the-turing-way/the-turing-way/issues/3367)) for day/session leads to ensure the planning committee was prepared to host the event. 
+The May 2025 edition of Book Dash featured 32 contributors, 11 committee members, 8 online working sessions, two social events, and two community share-outs. We used [the checklists]([https://github.com/the-turing-way/the-turing-way/issues/3367)](https://github.com/the-turing-way/the-turing-way/issues/3367)) for day/session leads to ensure the planning committee was prepared to host the event. 
 
 Since November 2020, the Book Dashes have been hosted mostly online with multiple short co-working called development sessions spread over five days for flexible participation by members. For this Book Dash however, the Committee decided to explore a different format. An initial Hack Day for contributions was held as part of Collaborations Workshop 2025, supported by the Software Sustainability Institute. The following week, two days of online contributions were open to the whole community as usual. 
 
