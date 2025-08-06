@@ -35,7 +35,7 @@ Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yank
    * **Seun Olufemi** is the Community lead, and Project Co-lead of the Bioinformatics Outreach Nigeria (BON) , a resident fellow with the Open Life Science (OLS), and a contributor to the Turing Way. 
    * **Precious Onyewuchi** is an Open Source Community Manager for the Data Science Without Borders Community. She is a contributor to the Turing Way. 
    * **Patricia Herterich** is Associate Director, Finance and Operations at OLS. She was part of the initial The Turing Way core team and has led on several inclusive events in the past. She has co-organised the very first book dashes and participated in one book dash since then before joining the organising committee for this one.
-   * **Sara Villa** is a researcher and Senior Resident fellow at OLS. She is part of the Community Management working grout at The Turing Way and has a strong focus in Open Science training. 
+   * **Sara Villa** is a researcher and Senior Resident fellow at OLS. She is part of the Community Management working group at The Turing Way and has a strong focus in Open Science training. 
 
 
 ## Format of the event 
