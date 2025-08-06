@@ -28,9 +28,9 @@ Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yank
    * **Alexandra Araujo Alvarez** is the Senior Research Community Manager for BridgeAI, based at The Alan Turing Institute. She provided the Book Dash Planning Committee operational support.
    * **Anne Lee Steele** is the Research Community Manager of The Turing Way. She provided the Book Dash Planning Committee operational support during the planning process, coordinated the communications campaign, local hub in London, and supported the trainings before the event.
    * **Arielle Bennett** is Senior Researcher for Open Source Practices at the Alan Turing Institute. In The Turing Way, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research and Guide to Collaboration.
-   * **Emma Karoune **is a Principal Researcher focusing on Research Community Building at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology open researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication including 'Getting started with GitHub' and chapters on writing for wider audiences such as blogs, lay summaries and social media.
+   * **Emma Karoune** is a Principal Researcher focusing on Research Community Building at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology open researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication including 'Getting started with GitHub' and chapters on writing for wider audiences such as blogs, lay summaries and social media.
    * **Esther Plomp** is a researcher at the University of Aruba, working for the Research Center. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility.
-   * **Lelle Demertzi **is the Research Project Manager for *The Turing Way*, since September 2024. She provided the Book Dash Planning Committee operational support, being responsible for managing the Book Dash budget, contracting external suppliers, processing participants expenses and organising the catering at the in-person hub in London.
+   * **Lelle Demertzi** is the Research Project Manager for *The Turing Way*, since September 2024. She provided the Book Dash Planning Committee operational support, being responsible for managing the Book Dash budget, contracting external suppliers, processing participants expenses and organising the catering at the in-person hub in London.
    * **Liz Hare** is a researcher in the working dog field. She has participated in three Book Dashes and is the Co-lead of the Accessibility Working Group.
    * **Seun Olufemi** is the Community lead, and Project Co-lead of the Bioinformatics Outreach Nigeria (BON) , a resident fellow with the Open Life Science (OLS), and a contributor to the Turing Way. 
    * **Precious Onyewuchi** is an Open Source Community Manager for the Data Science Without Borders Community. She is a contributor to the Turing Way. 
@@ -78,8 +78,6 @@ This Book Dash, we had members of the Data Science Without Borders (DSWB) join t
    * Deadline progress report: 27 June
 
 ## GitHub activities: New and existing Pull Requests and Issues that attendees worked on
-
-*for this section we need to look at the issues / PRs with the '0-book-dash-may-2025' tag (or opened during the Book Dash dates) - delete once completed*
 
 ### Issues
 
