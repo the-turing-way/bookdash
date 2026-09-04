@@ -13,8 +13,7 @@ Alexandra Araujo Alvarez (*), Arielle Bennett(*), Denise Bianco, Emma Karoune(*)
 (*) Nov 2025 Book Dash Planning Committee members.
 
 ## Highlights (to be completed)
- 
-
+The November 2025 Book Dash brought together a diverse international community of new and previous contributors, generating contributions to _The Turing Way_ while strengthening community connections, skills and opportunities for future collaboration.
 
 ## Book Dash Planning Committee
 
