@@ -2,7 +2,8 @@
 
 ## The Turing Way Book Dash, 10-14 Nov 2025: Overview and Report
 
-The Turing Way Book Dash events are a less intense version of Book Sprints, where participants collaboratively work on The Turing Way guides synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects. [Read more about The Turing Way Book Dash here]([https://the-turing-way.netlify.app/community-handbook/bookdash.html)](https://the-turing-way.netlify.app/community-handbook/bookdash.html))
+The Turing Way Book Dash events are a less intense version of Book Sprints, where participants collaboratively work on The Turing Way guides synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
+They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects. [Read more about The Turing Way Book Dash here](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
 
 We are delighted to share that the twelth Book Dash was hosted successfully from 10 to 14 November 2025 with 16 participants.
 
