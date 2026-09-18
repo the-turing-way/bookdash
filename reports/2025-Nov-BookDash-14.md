@@ -151,5 +151,5 @@ I think we all had really engaging events same time as the Book Dash, so finding
 * [Day 4 - 13 Nov](https://annuel2.framapad.org/p/ttw-bookdash-13nov25-day4)
 * [Day 5 - Shareouts 14 Nov 2025](https://annuel2.framapad.org/p/ttw-bookdash-14nov25-shareouts)         
 - [Sign-ups to Join Community Share-outs](https://docs.google.com/forms/d/1nWTJZmv89tl7xCwnmJUGYP30Yd0pMeaaPeNVJeL95NE/edit)
-- [Post-event feedback](https://annuel2.framapad.org/p/ttw-bookdash-may25-feedback) ---> Change link to the form 
+- [Post-event feedback](https://docs.google.com/forms/d/e/1FAIpQLSf5HuTDyKY7n2IKVRp5ru7H6d8d3VL8ovrcjA6EXL3ubXpKQQ/viewform) 
 - [Reports from the previous events](https://github.com/the-turing-way/book-dash)
