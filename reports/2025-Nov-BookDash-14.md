@@ -9,7 +9,7 @@ We are delighted to share that the twelth Book Dash was hosted successfully from
 
 Accepted participants, trainers and presenters in alphabetical order (TBC):
 
-Alexandra Araujo Alvarez (*), Arielle Bennett(*), Denise Bianco, Emma Karoune(*), Esther Plomp(*), Jim Madge, Johanna Bayer, Léllé Demertzi(*), Liz Hare(*), Malvika Sharan, Patricia Heterich(*), Precious Onyewuchi (*), Richard Acton, Sara Villa(*), Sarah Gibson, Saranjeet Kaur Bhogal, 
+Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Denise Bianco, Emma Karoune (\*), Esther Plomp (\*), Jim Madge, Johanna Bayer, Léllé Demertzi (\*), Liz Hare (\*), Malvika Sharan, Patricia Heterich (\*), Precious Onyewuchi (\*), Richard Acton, Sara Villa (\*), Sarah Gibson, Saranjeet Kaur Bhogal, 
 
 (*) Nov 2025 Book Dash Planning Committee members.
 
