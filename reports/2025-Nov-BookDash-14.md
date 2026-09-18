@@ -9,9 +9,10 @@ We are delighted to share that the twelth Book Dash was hosted successfully from
 
 Accepted participants, trainers and presenters in alphabetical order (TBC):
 
-Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Carla Strubbia, Carlos Martinez, Cecilia Baldoni, Denise Bianco, Emma Karoune (\*), Emmanuel Adamolekun (\*), Esther Plomp (\*),Gamal Adel, Ganesh Kumar Suresh, Giulia Tomba, Huiwen Wang, Jim Madge, Johanna Bayer, Léllé Demertzi (\*), Lena Karvovskaya, Liz Hare (\*), Magak Adell, Malvika Sharan, Marybleising Okolie, Michael Junior, Michael Ochola, Patricia Heterich (\*), Precious Onyewuchi (\*), Richard Acton, Roshni Kumari, Sara Villa (\*), Sarah Gibson, Saranjeet Kaur Bhogal, Silvia Genovese, Sunny Gupta, Walter Baccinelli.
+Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Carla Strubbia (\**), Carlos Martinez (\**), Cecilia Baldoni, Denise Bianco, Emma Karoune (\*), Emmanuel Adamolekun (\*), Esther Plomp (\*),Gamal Adel (\**), Ganesh Kumar Suresh, Giulia Tomba, Huiwen Wang, Jim Madge, Johanna Bayer, Léllé Demertzi (\*), Lena Karvovskaya (\**), Liz Hare (\*), Magak Adell, Malvika Sharan, Marybleising Okolie, Michael Ochola,Michael Umeokoli (\**), Patricia Heterich (\*), Precious Onyewuchi (\*), Richard Acton, Roshni Kumari (\**), Sara Villa (\*), Sarah Gibson, Saranjeet Kaur Bhogal, Silvia Genovese, Sunny Gupta (\**), Walter Baccinelli (\**).
 
-(*) Nov 2025 Book Dash Planning Committee members.
+(\*) Nov 2025 Book Dash Planning Committee members.
+(\**) Attendees to the Netherland Hub.
 
 ## Highlights (to be completed)
 The November 2025 Book Dash brought together a diverse international community of new and previous contributors, generating contributions to _The Turing Way_ while strengthening community connections, skills and opportunities for future collaboration.
@@ -25,22 +26,19 @@ The November 2025 Book Dash brought together a diverse international community o
   * **Esther Plomp** is a researcher at the University of Aruba, working for the Research Center. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility. 
   *    **Johanna Bayer** is a post-doctoral Fellow at the Donders Institute for Brain, Cognition and Behaviour in the Netherlands . I have an interest in Computational Psychiatry and the application of methods of statistics, computer science and machine learning to problems in mental health, with a focus on integrating and harvesting big data. 
  * **Lena Karvovskaya** is community coordinator at the Thematic Digital Competence Centre (TDCC) for the Natural & Engineering Sciences (NES) in the Netherlands. Lena has participated in several Turing Way book dashes and co-organized a couple of in-person hubs. 
- *   **Neha Moopen**
  * **Precious Onyewuchi** is an Open Source Community Manager for the Data Science Without Borders Community. She is a contributor to the Turing Way. 
   * **Sara Villa** is a researcher and Senior Resident fellow at OLS. She is part of the Community Management working group at The Turing Way and has a strong focus in Open Science training. 
  
 
-
 ## Format of the event 
 
-The Nov 2025 edition of Book Dash featured 16 contributors, 10 committee members, sixteen online working sessions - four 2.5 hour intervals per day, four social events, two local in-person hubs (Netherlands and Aruba) and two community share-outs. We used [the checklists](https://github.com/the-turing-way/bookdash/issues/63)(https://github.com/the-turing-way/the-turing-way/issues/3367)) for day/session leads to ensure the planning committee was prepared to host the event. 
+The Nov 2025 edition of Book Dash featured 32 contributors accepted to the Book Dash, 9 committee members, 7 members joining the Netherland hub sixteen online working sessions - four 2.5 hour intervals per day, four social events, two local in-person hubs (Netherlands and Aruba) and two community share-outs. We used [the checklists](https://github.com/the-turing-way/bookdash/issues/63)(https://github.com/the-turing-way/the-turing-way/issues/3367)) for day/session leads to ensure the planning committee was prepared to host the event. 
 
 Since November 2020, the Book Dashes have been hosted mostly online with multiple short co-working called development sessions spread over five days for flexible participation by members. For the online part there are shared documents available with all the information needed to ensure that everyone can comfortably participate. Before the Book Dash week itself an onboarding session was organised (to onboard people to the project, set goals and start connecting), as well as a GitHub training session to facilitate contributions to the book. 
 
 This year there were two local hubs in the Netherlands (Utrecht) and Aruba (Oranjestad). The Aruba Hub was organized on the 11th of November and consisted of a full in-person event where people first learned about The Turing Way project. None of the attendees had contributed to the book content before, and for some it was even the first time they heard of the book and the community. After this introduction the attendees started on their contributions for the day, which included translating the README to Papiamento, discovering multiple broken links, a missing text section in the Project Design chapter, contributing to the contributing guidelines and the code of conduct documents, and making suggestions to improve sections on sensitive data. After a day of working on these contributions the participants gathered for a social dinner on the beach to celebrate and close the day!
 
 The Netherlands hub was orgnaized on the 13th of November. It was also a full in-person event, with a nice mix of participants; some of them already had experience with the Turing Way Project, some were completely new and participated in the book dash for the first time. It was a great opportunity for the group not only to contribute to the project, but also to get to know each other and learn about each other's work. There was a joint lunch which helped to keep up the collaborative spririt. Participnats looked for themes related to their areas of work.
-
 
 
 ## Application, Review and Selection process
