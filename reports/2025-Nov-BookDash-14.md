@@ -5,11 +5,11 @@
 The Turing Way Book Dash events are a less intense version of Book Sprints, where participants collaboratively work on The Turing Way guides synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects. [Read more about The Turing Way Book Dash here](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
 
-We are delighted to share that the twelth Book Dash was hosted successfully from 10 to 14 November 2025 with 16 participants.
+We are delighted to share that the twelth Book Dash was hosted successfully from 10 to 14 November 2025 with 32 participants, including participants from the Netherland Hub.
 
 Accepted participants, trainers and presenters in alphabetical order (TBC):
 
-Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Denise Bianco, Emma Karoune (\*), Esther Plomp (\*), Jim Madge, Johanna Bayer, Léllé Demertzi (\*), Liz Hare (\*), Malvika Sharan, Patricia Heterich (\*), Precious Onyewuchi (\*), Richard Acton, Sara Villa (\*), Sarah Gibson, Saranjeet Kaur Bhogal, 
+Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Carla Strubbia, Carlos Martinez, Cecilia Baldoni, Denise Bianco, Emma Karoune (\*), Emmanuel Adamolekun (\*), Esther Plomp (\*),Gamal Adel, Ganesh Kumar Suresh, Giulia Tomba, Huiwen Wang, Jim Madge, Johanna Bayer, Léllé Demertzi (\*), Lena Karvovskaya, Liz Hare (\*), Magak Adell, Malvika Sharan, Marybleising Okolie, Michael Junior, Michael Ochola, Patricia Heterich (\*), Precious Onyewuchi (\*), Richard Acton, Roshni Kumari, Sara Villa (\*), Sarah Gibson, Saranjeet Kaur Bhogal, Silvia Genovese, Sunny Gupta, Walter Baccinelli.
 
 (*) Nov 2025 Book Dash Planning Committee members.
 
