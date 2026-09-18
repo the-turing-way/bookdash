@@ -143,7 +143,7 @@ I think we all had really engaging events same time as the Book Dash, so finding
 - [Video: Book Dash Tips for applying](https://www.youtube.com/watch?v=yM2890OCOKk)
 - [Expression of Interest to Join The Turing Way Book Dash Committee](https://forms.gle/F1cGHmgLGxhgZRho9)
 - [Start Page](https://ttw-book-dash-may-25.start.page)
-- [Onboarding call notes, 6&7 May](https://annuel2.framapad.org/p/ttw-bookdash-may25-onboarding) ----> Replace this link, can't find the one we used
+- [Onboarding call notes, 5&7 November](https://annuel2.framapad.org/p/ttw-bookdash-nov25-onboarding)
 - [GitHub Skill-up Session, 4 Nov](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?slide=id.g526267be46_0_606#slide=id.g526267be46_0_606)
 * [Day 1 - 10 Nov](https://annuel2.framapad.org/p/ttw-bookdash-10nov25-day1)
 * [Day 2 - 11 Nov](https://annuel2.framapad.org/p/ttw-bookdash-11nov25-day2)
